@@ -1,0 +1,8 @@
+﻿  lab_5.cpp
+C:\Users\Фёдор\Desktop\Вуз\1 курс\2 семестр\Прога\Peach\Coding_2semester\lab_5.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Фёдор\Desktop\Вуз\1 курс\2 семестр\Прога\Peach\Coding_2semester\lab_5.cpp(49,9): warning C4101: c1: неиспользованная локальная переменная
+C:\Users\Фёдор\Desktop\Вуз\1 курс\2 семестр\Прога\Peach\Coding_2semester\lab_5.cpp(51,6): warning C4101: counter: неиспользованная локальная переменная
+C:\Users\Фёдор\Desktop\Вуз\1 курс\2 семестр\Прога\Peach\Coding_2semester\lab_5.cpp(56,11): warning C4101: c21: неиспользованная локальная переменная
+C:\Users\Фёдор\Desktop\Вуз\1 курс\2 семестр\Прога\Peach\Coding_2semester\lab_5.cpp(58,6): warning C4101: counter2: неиспользованная локальная переменная
+C:\Users\Фёдор\Desktop\Вуз\1 курс\2 семестр\Прога\Peach\Coding_2semester\lab_5.cpp(49,7): warning C4101: c: неиспользованная локальная переменная
+  Coding_2semester.vcxproj -> C:\Users\Фёдор\Desktop\Вуз\1 курс\2 семестр\Прога\Peach\Coding_2semester\x64\Debug\Coding_2semester.exe
